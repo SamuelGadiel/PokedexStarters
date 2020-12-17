@@ -1,0 +1,23 @@
+crie um projeto utilizando slidy
+
+instale o modular
+
+Chame duas rotas simples e uma rota filha utilizando modular
+
+As telas podem ter apenas botoes para passar pro proximo nivel
+
+Utilize o dio para fazer uma requisicao simples no Mocky
+
+Utilize bloc e rxdart
+
+
+
+
+Me surpreenda com a resposta utilizando oque voce ja aprendeu
+
+
+
+
+LINKS UTEIS:
+
+https://designer.mocky.io/design

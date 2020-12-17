@@ -1,0 +1,227 @@
+[
+  {
+    "id": "001",
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "generation": "1",
+    "region": "Kanto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  },
+  {
+    "id": "004",
+    "name": "Charmander",
+    "type": "Fire",
+    "generation": "1",
+    "region": "Kanto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+  },
+  {
+    "id": "007",
+    "name": "Squirtle",
+    "type": "Water",
+    "generation": "1",
+    "region": "Kanto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+  },
+  {
+    "id": "025",
+    "name": "Pikachu",
+    "type": "Electric",
+    "generation": "1",
+    "region": "Kanto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  {
+    "id": "152",
+    "name": "Chikorita",
+    "type": "Grass",
+    "generation": "2",
+    "region": "Johto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+  },
+  {
+    "id": "155",
+    "name": "Cyndaquil",
+    "type": "Fire",
+    "generation": "2",
+    "region": "Johto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+  },
+  {
+    "id": "158",
+    "name": "Totodile",
+    "type": "Water",
+    "generation": "2",
+    "region": "Johto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+  },
+  {
+    "id": "252",
+    "name": "Treecko",
+    "type": "Grass",
+    "generation": "3",
+    "region": "Hoenn",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
+  },
+  {
+    "id": "255",
+    "name": "Torchic",
+    "type": "Fire",
+    "generation": "3",
+    "region": "Hoenn",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+  },
+  {
+    "id": "258",
+    "name": "Mudkip",
+    "type": "Water",
+    "generation": "3",
+    "region": "Hoenn",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png"
+  },
+  {
+    "id": "387",
+    "name": "Turtwig",
+    "type": "Grass",
+    "generation": "4",
+    "region": "Sinnoh",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png"
+  },
+  {
+    "id": "390",
+    "name": "Chimchar",
+    "type": "Fire",
+    "generation": "4",
+    "region": "Sinnoh",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png"
+  },
+  {
+    "id": "393",
+    "name": "Piplup",
+    "type": "Water",
+    "generation": "4",
+    "region": "Sinnoh",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png"
+  },
+  {
+    "id": "495",
+    "name": "Snivy",
+    "type": "Grass",
+    "generation": "5",
+    "region": "Unova",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png"
+  },
+  {
+    "id": "498",
+    "name": "Tepig",
+    "type": "Fire",
+    "generation": "5",
+    "region": "Unova",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png"
+  },
+  {
+    "id": "501",
+    "name": "Oshawott",
+    "type": "Water",
+    "generation": "5",
+    "region": "Unova",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+  },
+  {
+    "id": "650",
+    "name": "Chespin",
+    "type": "Grass",
+    "generation": "6",
+    "region": "Kalos",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
+  },
+  {
+    "id": "653",
+    "name": "Fennekin",
+    "type": "Fire",
+    "generation": "6",
+    "region": "Kalos",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png"
+  },
+  {
+    "id": "656",
+    "name": "Froakie",
+    "type": "Water",
+    "generation": "6",
+    "region": "Kalos",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png"
+  },
+  {
+    "id": "722",
+    "name": "Rowlet",
+    "type": "Grass",
+    "generation": "7",
+    "region": "Alola",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
+  },
+  {
+    "id": "725",
+    "name": "Litten",
+    "type": "Fire",
+    "generation": "7",
+    "region": "Alola",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png"
+  },
+  {
+    "id": "728",
+    "name": "Popplio",
+    "type": "Water",
+    "generation": "7",
+    "region": "Alola",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png"
+  },
+  {
+    "id": "810",
+    "name": "Grookey",
+    "type": "Grass",
+    "generation": "8",
+    "region": "Galar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png"
+  },
+  {
+    "id": "813",
+    "name": "Scorbunny",
+    "type": "Fire",
+    "generation": "8",
+    "region": "Galar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png"
+  },
+  {
+    "id": "816",
+    "name": "Sobble",
+    "type": "Water",
+    "generation": "8",
+    "region": "Galar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png",
+    "design": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+  }
+]
