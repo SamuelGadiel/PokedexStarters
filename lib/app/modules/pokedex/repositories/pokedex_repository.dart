@@ -5,8 +5,7 @@ class PokedexRepository {
   final Dio dio;
   PokedexRepository(this.dio);
 
-  final String url =
-      "https://run.mocky.io/v3/4394eb11-88d0-4739-80d6-d37e31183225";
+  final String url = "https://pokemon-flutter-api.herokuapp.com/";
 
   Future<List<FetchModel>> getPokemons() async {
     var request = await dio.get(url);

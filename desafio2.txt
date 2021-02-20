@@ -1,21 +1,20 @@
-crie um projeto utilizando slidy
+Crie um projeto utilizando slidy
+Utilize Modular
+Utilize BLoC e rxdart
 
-instale o modular
+Crie duas rotas simples que serão chamadas a partir da home
+E em uma dessas rotas crie uma rota filha.
 
-Chame duas rotas simples e uma rota filha utilizando modular
+Chame as duas rotas simples e a rota filha utilizando modular para isso
+Utilize Binds globais somente quando realmente necessário
+Em vez disso, tente encapsular tudo que possivel dentro dos binds locais do módulo
 
-As telas podem ter apenas botoes para passar pro proximo nivel
+Para navegar entre os niveis das telas pode utilizar somente botões
 
 Utilize o dio para fazer uma requisicao simples no Mocky
 
-Utilize bloc e rxdart
 
-
-
-
-Me surpreenda com a resposta utilizando oque voce ja aprendeu
-
-
+Inove com a resposta utilizando oque voce ja aprendeu
 
 
 LINKS UTEIS:
